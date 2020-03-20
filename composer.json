@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "spacetaxi",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel 6 Framework in CS442 class (2019/2).",
     "keywords": [
         "framework",
         "laravel"
